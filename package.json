@@ -1,0 +1,8 @@
+{
+  "name": "Snake",
+  "version": "1.0.0",
+  "description": "A retake on the classic game known as Snake.",
+  "keywords": ["Javascript", "Snake"],
+  "main": "snakegame.html",
+  "dependencies": {}
+}
